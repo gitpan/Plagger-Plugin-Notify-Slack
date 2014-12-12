@@ -8,7 +8,7 @@ use LWP::UserAgent;
 use Encode;
 use JSON qw(encode_json);
 
-our $VERSION = "0.02";
+our $VERSION = "0.03";
 
 sub register {
     my ( $self, $context ) = @_;

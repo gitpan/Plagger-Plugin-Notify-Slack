@@ -59,7 +59,7 @@
    "provides" : {
       "Plagger::Plugin::Notify::Slack" : {
          "file" : "lib/Plagger/Plugin/Notify/Slack.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -73,6 +73,6 @@
          "web" : "ssh://git@github.com/zoncoen/Plagger-Plugin-Notify-Slack"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_authority" : "cpan:ZONCOEN"
 }
