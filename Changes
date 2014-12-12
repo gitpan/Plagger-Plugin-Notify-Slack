@@ -1,5 +1,9 @@
 Revision history for Perl extension Plagger-Plugin-Notify-Slack
 
+0.02 2014-12-12T08:03:02Z
+
+    - Fix typo
+
 0.01 2014-12-12T03:04:04Z
 
     - original version
